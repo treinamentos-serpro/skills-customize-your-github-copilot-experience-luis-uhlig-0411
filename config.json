@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "fastapi-postgresql-persistence",
+      "title": "FastAPI with PostgreSQL Persistence",
+      "description": "Extend a FastAPI book API with PostgreSQL persistence using SQLAlchemy sessions and CRUD operations.",
+      "path": "assignments/fastapi-postgresql-persistence",
+      "dueDate": "2026-11-11",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
