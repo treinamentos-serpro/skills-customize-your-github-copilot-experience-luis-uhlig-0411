@@ -1,10 +1,10 @@
-# 📘 Tarefa: Análise de Dados
+# 📘 Atividade: Análise de Dados
 
-## 🎯 Objective
+## 🎯 Objetivo
 
 Os alunos aprenderão os fundamentos da análise de dados usando Python. Eles irão carregar, explorar e analisar um conjunto de dados para extrair insights relevantes.
 
-## 📝 Tasks
+## 📝 Tarefas
 
 ### 🛠️ Carregamento e Exploração de Dados
 
@@ -12,7 +12,7 @@ Os alunos aprenderão os fundamentos da análise de dados usando Python. Eles ir
 Carregue um dataset CSV fornecido e realize uma exploração básica para entender sua estrutura e conteúdo.
 
 #### Requisitos
-O programa completo deve:
+O programa concluído deve:
 
 - Carregar um arquivo CSV usando Python (por exemplo, com pandas)
 - Exibir as primeiras 5 linhas do dataset
@@ -25,7 +25,7 @@ O programa completo deve:
 Crie visualizações para ajudar a entender os dados e resuma as principais descobertas.
 
 #### Requisitos
-O programa completo deve:
+O programa concluído deve:
 
 - Gerar pelo menos dois tipos diferentes de gráficos (por exemplo, histograma, gráfico de dispersão)
 - Identificar e descrever pelo menos dois insights ou tendências dos dados
